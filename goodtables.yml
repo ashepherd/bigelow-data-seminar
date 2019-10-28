@@ -1,5 +1,4 @@
 settings:
-  checks:
-    - structure
-    - schema
-    - blank-header
+  infer_schema: True
+  infer_fields: True
+  
