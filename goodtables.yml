@@ -1,0 +1,5 @@
+settings:
+  checks:
+    - structure
+    - schema
+    - blank-header
